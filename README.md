@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/gNYiwD9.png"/></P>
 </p>
 
-<h2>osTicket Lifestyle Examples<h2/>
+<h2>osTicket Lifecycle Examples<h2/>
+<h2> After installing osTicket and configuration I will be demonstrating the lifecycle of tickets in osTicket. <h2/>
 
 1. Go the portal to sign in and open a new ticket as a customer. For testing purposes the url is http://localhost/osTicket
 
