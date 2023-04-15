@@ -3,7 +3,7 @@
 </p>
 
 <h2>osTicket Lifecycle Examples<h2/>
-<h2> After installing osTicket and configuration I will be demonstrating the lifecycle of tickets in osTicket. <h2/>
+<h2> After installing osTicket and configuration I will be demonstrating the lifecycle of a ticket. <h2/>
 
 1. Go the portal to sign in and open a new ticket as a customer. For testing purposes the url is http://localhost/osTicket
 
