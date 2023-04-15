@@ -6,7 +6,6 @@
 <h2> After installing osTicket and configuration I will be demonstrating the lifecycle of a ticket. <h2/>
 
 First you need to open a new ticket as a customer/user. 
- <a>http://localhost/osTicket<a/>
  - Go to Ticket Portal
  - Sign in as a user
 
@@ -20,10 +19,10 @@ First you need to open a new ticket as a customer/user.
 <img src="https://i.imgur.com/9RGQjTp.png"/></P>
 </p>
 
-Enter ticket details > create the ticket > log out of user and sign in as the MAIN ADMIN 
-
+Enter ticket details > create the ticket
 <p align="center">
 <img src="https://i.imgur.com/jmuF6Iu.png"/></P>
+<p> log out of user and sign in as the MAIN ADMIN </p>
 <img src="https://i.imgur.com/tc82TRo.png"/></p>
 </p>
 
