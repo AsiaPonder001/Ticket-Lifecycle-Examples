@@ -5,39 +5,39 @@
 <h2>osTicket Lifecycle Examples<h2/>
 <h2> After installing osTicket and configuration I will be demonstrating the lifecycle of a ticket. <h2/>
 
-1. Go the portal to sign in and open a new ticket as a customer. For testing purposes the url is http://localhost/osTicket
+First you need to open a new ticket as a customer/user. 
+ <a>http://localhost/osTicket<a/>
+ - Go to Ticket Portal
+ - Sign in as a user
 
 <p align="center">
-<img src="https://i.imgur.com/9oonW1V.png"/></P>
+<img src="https://i.imgur.com/lfobSMW.png"/></P>
 </p>
-<br />
-<br />
 
-1b.
+
 
 <p align="center">
-<img src="https://i.imgur.com/9oonW1V.png"/></P>
+<img src="https://i.imgur.com/9RGQjTp.png"/></P>
 </p>
-<br />
-<br />
 
-
-2. Enter the ticket details, create the ticket and log out
+Enter ticket details > create the ticket > log out of user and sign in as the MAIN ADMIN 
 
 <p align="center">
-<img src="https://i.imgur.com/9oonW1V.png"/></P>
+<img src="https://i.imgur.com/jmuF6Iu.png"/></P>
+<img src="https://i.imgur.com/tc82TRo.png"/></p>
 </p>
-<br />
-<br />
 
 
-3. Sign back in as the main admin and assign the ticket (SLA, Agent, etc)
+
+Assign the tickets...
+- SLA
+- AGENT
 
 <p align="center">
-<img src="https://i.imgur.com/9oonW1V.png"/></P>
+<img src="https://i.imgur.com/ufd5ZUX.png"/></P>
+<img src="https://i.imgur.com/MPxx0Zh.png"/></P>
 </p>
-<br />
-<br />
+
 
 3b. 
 
