@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/9oonW1V.png"/></P>
+<img src="https://i.imgur.com/gNYiwD9.png"/></P>
 </p>
 
 <h2>osTicket Lifestyle Examples<h2/>
